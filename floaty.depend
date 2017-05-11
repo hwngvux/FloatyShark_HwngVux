@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1493908841 source:f:\mypong\mypong\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+
+1451800373 f:\sdl2_image-devel-2.0.1-mingw.tar\sdl2_image-devel-2.0.1-mingw\sdl2_image-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 f:\sdl2_ttf-devel-2.0.14-mingw.tar\sdl2_ttf-devel-2.0.14-mingw\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1469399136 source:f:\pong-master\lib\vector2d.cpp
+	"Vector2D.h"
+	<math.h>
+
+1469399136 f:\pong-master\lib\vector2d.h
+
+1493356553 source:f:\mypong\mypong\vector2d.cpp
+
+1493314242 f:\mypong\mypong\vector2d.h
+	<iostream>
+	<math.h>
+
