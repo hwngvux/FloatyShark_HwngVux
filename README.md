@@ -2,6 +2,6 @@
 Bai Tap Lon
 Intruction 
    Press Mouse to make the shark moves down ,avoid the pipe 
-   Go as for as you can and get the highest score
+   Go as far as you can and get the highest score
 Credit 
    HwngVux 
